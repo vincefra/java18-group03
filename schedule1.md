@@ -1,7 +1,7 @@
 ### Group 03 - Members:
 1.  Carlos (carloslane)
 2.  David S. (davidsodergren) / Marcus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
-3. 
+3. Vincent Frank (vincefra)
 4. 
 5. 
 6. 
