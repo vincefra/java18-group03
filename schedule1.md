@@ -1,7 +1,7 @@
 ### Group 03 - Members:
 1.  Carlos (carloslane)
 2.  David S. (davidsodergren) / Marcus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
-3. 
+3.  Vincent (vincefra)
 4. 
 5. 
 6. 
@@ -16,7 +16,7 @@
 | 10.15-10.25 |  Team 1       |
 | 10.30-10.40 |               |
 | 10.45-10.55 |               |
-| 11.00-11.10 |               |
+| 11.00-11.10 |  Team 3       |
 | 11.15-11.25 |               |
 | 11.30-11.40 |               |
 | 11.45-11.55 |               |
