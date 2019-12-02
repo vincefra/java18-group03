@@ -1,6 +1,6 @@
 ### Group 03 - Members:
-1.  Rafael Silva (example)
-2. 
+1.  Carlos (carloslane)
+2.  David S. (davidsodergren) / Markus J. (marcus-d-jensen) / Kristian G. (kristiangrundstrom)
 3. 
 4. 
 5. 
